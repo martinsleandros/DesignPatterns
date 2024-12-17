@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Example.png" />
+    <None Remove="Example2png.png" />
+    <None Remove="ImplementacaoUML.png" />
+    <None Remove="README.txt" />
+  </ItemGroup>
+
+</Project>

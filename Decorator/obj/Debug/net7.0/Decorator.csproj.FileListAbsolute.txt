@@ -1,0 +1,14 @@
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Decorator\bin\Debug\net7.0\Decorator.exe
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Decorator\bin\Debug\net7.0\Decorator.deps.json
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Decorator\bin\Debug\net7.0\Decorator.runtimeconfig.json
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Decorator\bin\Debug\net7.0\Decorator.dll
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Decorator\bin\Debug\net7.0\Decorator.pdb
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Decorator\obj\Debug\net7.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfoInputs.cache
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfo.cs
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Decorator\obj\Debug\net7.0\Decorator.csproj.CoreCompileInputs.cache
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Decorator\obj\Debug\net7.0\Decorator.dll
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Decorator\obj\Debug\net7.0\refint\Decorator.dll
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Decorator\obj\Debug\net7.0\Decorator.pdb
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Decorator\obj\Debug\net7.0\Decorator.genruntimeconfig.cache
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Decorator\obj\Debug\net7.0\ref\Decorator.dll

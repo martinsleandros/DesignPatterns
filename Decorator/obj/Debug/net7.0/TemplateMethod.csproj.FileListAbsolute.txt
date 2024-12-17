@@ -1,0 +1,14 @@
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\TemplateMethod\bin\Debug\net7.0\TemplateMethod.exe
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\TemplateMethod\bin\Debug\net7.0\TemplateMethod.deps.json
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\TemplateMethod\bin\Debug\net7.0\TemplateMethod.runtimeconfig.json
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\TemplateMethod\bin\Debug\net7.0\TemplateMethod.dll
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\TemplateMethod\bin\Debug\net7.0\TemplateMethod.pdb
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\TemplateMethod\obj\Debug\net7.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\TemplateMethod\obj\Debug\net7.0\TemplateMethod.AssemblyInfoInputs.cache
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\TemplateMethod\obj\Debug\net7.0\TemplateMethod.AssemblyInfo.cs
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\TemplateMethod\obj\Debug\net7.0\TemplateMethod.csproj.CoreCompileInputs.cache
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\TemplateMethod\obj\Debug\net7.0\TemplateMethod.dll
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\TemplateMethod\obj\Debug\net7.0\refint\TemplateMethod.dll
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\TemplateMethod\obj\Debug\net7.0\TemplateMethod.pdb
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\TemplateMethod\obj\Debug\net7.0\TemplateMethod.genruntimeconfig.cache
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\TemplateMethod\obj\Debug\net7.0\ref\TemplateMethod.dll

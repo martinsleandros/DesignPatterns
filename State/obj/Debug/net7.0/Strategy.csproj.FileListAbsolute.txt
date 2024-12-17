@@ -1,0 +1,14 @@
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Strategy\bin\Debug\net7.0\Strategy.exe
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Strategy\bin\Debug\net7.0\Strategy.deps.json
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Strategy\bin\Debug\net7.0\Strategy.runtimeconfig.json
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Strategy\bin\Debug\net7.0\Strategy.dll
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Strategy\bin\Debug\net7.0\Strategy.pdb
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Strategy\obj\Debug\net7.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Strategy\obj\Debug\net7.0\Strategy.AssemblyInfoInputs.cache
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Strategy\obj\Debug\net7.0\Strategy.AssemblyInfo.cs
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Strategy\obj\Debug\net7.0\Strategy.csproj.CoreCompileInputs.cache
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Strategy\obj\Debug\net7.0\Strategy.dll
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Strategy\obj\Debug\net7.0\refint\Strategy.dll
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Strategy\obj\Debug\net7.0\Strategy.pdb
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Strategy\obj\Debug\net7.0\Strategy.genruntimeconfig.cache
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Strategy\obj\Debug\net7.0\ref\Strategy.dll

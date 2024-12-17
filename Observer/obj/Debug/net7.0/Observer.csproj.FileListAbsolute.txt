@@ -1,0 +1,14 @@
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Observer\bin\Debug\net7.0\Observer.exe
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Observer\bin\Debug\net7.0\Observer.deps.json
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Observer\bin\Debug\net7.0\Observer.runtimeconfig.json
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Observer\bin\Debug\net7.0\Observer.dll
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Observer\bin\Debug\net7.0\Observer.pdb
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Observer\obj\Debug\net7.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Observer\obj\Debug\net7.0\Observer.AssemblyInfoInputs.cache
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Observer\obj\Debug\net7.0\Observer.AssemblyInfo.cs
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Observer\obj\Debug\net7.0\Observer.csproj.CoreCompileInputs.cache
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Observer\obj\Debug\net7.0\Observer.dll
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Observer\obj\Debug\net7.0\refint\Observer.dll
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Observer\obj\Debug\net7.0\Observer.pdb
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Observer\obj\Debug\net7.0\Observer.genruntimeconfig.cache
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Observer\obj\Debug\net7.0\ref\Observer.dll

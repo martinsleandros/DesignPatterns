@@ -1,0 +1,14 @@
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Builder\obj\Debug\net7.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Builder\obj\Debug\net7.0\Builder.AssemblyInfoInputs.cache
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Builder\obj\Debug\net7.0\Builder.AssemblyInfo.cs
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Builder\obj\Debug\net7.0\Builder.csproj.CoreCompileInputs.cache
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Builder\bin\Debug\net7.0\Builder.exe
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Builder\bin\Debug\net7.0\Builder.deps.json
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Builder\bin\Debug\net7.0\Builder.runtimeconfig.json
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Builder\bin\Debug\net7.0\Builder.dll
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Builder\bin\Debug\net7.0\Builder.pdb
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Builder\obj\Debug\net7.0\Builder.dll
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Builder\obj\Debug\net7.0\refint\Builder.dll
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Builder\obj\Debug\net7.0\Builder.pdb
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Builder\obj\Debug\net7.0\Builder.genruntimeconfig.cache
+D:\Estudos\Cursos\Alura\Design Patterns\C#\DesignPatterns\Builder\obj\Debug\net7.0\ref\Builder.dll
